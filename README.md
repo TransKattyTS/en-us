@@ -1,2 +1,2 @@
-# transsocial.github.io
-The official TransSocial Github pages. 
+# TransSocial
+<h1>The official TransSocial Github pages. 
